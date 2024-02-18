@@ -1,5 +1,5 @@
 # SphereBase For LaserCut
-  Generate SVG File to create SphereBase shape by lasercut.
+  Generate SVG File of parameterized pictureframe for lasercut & engraving.
 
 ## Requirement
   Assuming you installed python 3.9.10 or newer version.  
@@ -8,8 +8,8 @@
   Require webbrowser installed using pip.  
 
 ## Usage
-- 1. Execute SphereBase.py (with command "python SphereBase.py")
+- 1. Execute PictureFrame.py (with command "python SphereBase.py")
 - 2. Input Parameters.  
 ![Usage2](img/usage_1.png)
-- 3. lasercut_spherebase.svg is saved on the current working directory.  
+- 3. lasercut_pictframe.svg is saved on the current working directory.  
 ![Usage3](img/usage_2.png)
